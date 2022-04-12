@@ -73,7 +73,7 @@ body:after {
   height: 100vh; }
 
 img {
-  width: inherit;
+  width: auto;
   max-width: 100%;
   display: inherit; }
 
