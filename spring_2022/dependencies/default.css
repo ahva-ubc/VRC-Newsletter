@@ -39,6 +39,8 @@ input[type="radio"] {
   min-width: 0; }
 
 html {
+padding-left: 100px;
+padding-right: 200px;
   font-size: 10px;
   overflow-y: scroll;
   overflow-x: hidden;
@@ -87,7 +89,7 @@ section {
 section > div.ribbon__content, section > div.header__content, section > div.nav__content, section > div.mobile-nav__content, section > div.mobile-search__content, section > div.footer__content {
   display: grid;
   grid-template-columns: repeat(11, 1fr 30px) 1fr;
-  width: 70%;
+  width: 100%;
   margin: 0 auto;
   padding: 0 1.5rem; }
 
