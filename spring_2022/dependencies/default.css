@@ -5652,3 +5652,5 @@ html.ff-browser.mac-os div.js-quote-wrapper p {
 
 .main__content div.toggleContent.open {
   display: block; }
+
+#map { height: 180px; }
